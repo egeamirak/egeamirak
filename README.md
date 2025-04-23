@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ege Amirak
+# Hi, I’m Ege Amirak
 
 Currently conducting research at the Izmir Institute of Technology under the supervision of Assist. Prof. Atakan Ekiz, I focus on characterizing the tumor immune microenvironment (TIME) using high-throughput transcriptomic datasets. My work investigates how non-coding RNAs contribute to immune cell heterogeneity and influence therapy resistance and immune response in melanoma.
 
